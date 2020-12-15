@@ -1,4 +1,4 @@
-
+/*
 .login-box{
     width: 280px;
     position: absolute;
@@ -34,6 +34,10 @@
     width: 80%;
     float: left;
     margin: 0 10px;
+} */
+
+.col-sm-6{
+    text-align: center;
 }
 
 .btn{
